@@ -18,7 +18,7 @@
 -**SSC**
  -**Sri Chaitanya school**
  -**SSC**
-  -*2016-2017**
+  -*2016-  2017**
 -**Technical skills**
  -**C:90%**
  -**JAVA:60%**
